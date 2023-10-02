@@ -1,0 +1,22 @@
+.navbardiv
+{
+    margin: 20px auto;
+    width: 80%;
+    border-radius: 30px;
+    padding: 10px 0px;
+    box-shadow: 1px 1px 9px #88888887;
+    background-color: #f1f5fb;
+}
+
+.searchBox
+{
+    width: 30vw;
+    padding: 10px 25px;
+    margin-left: 2rem;
+}
+
+.searchBox input
+{
+    border-radius: 30px;
+    padding: 5px 1.5rem;
+}
