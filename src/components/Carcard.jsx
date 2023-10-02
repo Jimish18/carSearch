@@ -17,7 +17,7 @@ const Carcard = ({id ,img , name , model , capacity ,fuel , avarage , drivingMod
             <div className='carModel'>{model}</div>
         </div>
         
-        <div className='carFeatures' style={{width : '100%'}}>
+        <div className='carFeatures'>
             <div> 
                 <div><BiGasPump className='icons'/>  {capacity} People</div>
                 <div><GoPeople className='icons'/>  {fuel}</div> 

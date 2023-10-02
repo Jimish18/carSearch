@@ -37,6 +37,14 @@
     font-weight: bold;
 }
 
+.carFeatures
+{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
 .carFeatures>div
 {
     display: flex;
@@ -63,7 +71,7 @@
     width: 100%;
     height: 1px;
     background-color: #a5a2a2;
-    margin: 1rem 0;
+    margin: 0.5rem 0;
 }
 
 .carRentOption 
