@@ -10,6 +10,7 @@
     border-radius: 1rem;
     gap: 0.5rem;
     box-shadow: 1px 3px 8px #00000078;
+    margin: auto;
 }
 
 .carCardDiv img
